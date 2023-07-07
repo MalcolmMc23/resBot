@@ -1,0 +1,25 @@
+{
+  "name": "resbot",
+  "version": "1.0.0",
+  "description": "",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalcolmMc23/resBot.git"
+  },
+  "keywords": [],
+  "author": "Malcolm McDonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalcolmMc23/resBot/issues"
+  },
+  "homepage": "https://github.com/MalcolmMc23/resBot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
